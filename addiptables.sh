@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#created bu Ido Levy for EE security on 30/03/2016
+#created by Ido Levy for EE security on 30/03/2016
 
 
 display_usage() { 
